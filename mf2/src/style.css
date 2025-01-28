@@ -1,0 +1,36 @@
+.mf2-head {
+    background-color: black;
+    margin: 0%;
+    color: white;
+    border: none;
+    width: 90vw;
+    text-align: center;
+    padding: 1.2%;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.heading-container{
+    align-items: center;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+.heading{
+    text-align: center;
+    padding-left: 35px;
+    padding-top:10px;
+    font-size: 2em;
+}
+
+.btn2{
+    margin-left:47%;
+    height:6%;
+    width:10%;
+    border-radius:14px;
+    font-size: 1em;
+    background-color: rgb(219, 63, 203);
+    border: 1px solid black;
+    color: white;
+    margin-top: 5%;
+}

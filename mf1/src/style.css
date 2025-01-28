@@ -1,0 +1,31 @@
+#mf1-head{
+    background-color: black;
+    margin: 0%;
+    color: white;
+    border: none;
+    width: 90vw;
+    text-align: center;
+    padding: 1.2%;
+}
+
+.heading{
+    text-align: center;
+    padding-left: 35px;
+    font-size: 3em;
+}
+
+.list{
+    text-align: center;
+    font-size: 2em;
+}
+
+.btn{
+    margin-left:47%;
+    height:6%;
+    width:10%;
+    border-radius:14px;
+    font-size: 1em;
+    background-color: rgb(219, 63, 203);
+    border: 1px solid black;
+    color: white;
+}
